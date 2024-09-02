@@ -4,7 +4,7 @@ title: Star Sweepers
 
 ![This is a image!](https://via.placeholder.com/1920x1080 "Image caption")
 
-# Project 1
+# Star Sweepers
 
 - **Developed:** 2023
 - **Genre:** Hack, but also slash
