@@ -1,5 +1,5 @@
 ---
-title: Project 1
+title: Star Sweepers
 ---
 
 ![This is a image!](https://via.placeholder.com/1920x1080 "Image caption")
