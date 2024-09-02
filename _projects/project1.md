@@ -6,7 +6,7 @@ title: Star Sweepers
 
 # Project 1
 
-- **Developed:** This and that year
+- **Developed:** 2023
 - **Genre:** Hack, but also slash
 
 ### Overview
