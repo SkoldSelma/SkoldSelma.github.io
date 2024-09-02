@@ -4,9 +4,9 @@
   tags: ["C# ", "Unity ", "Game Development "]
   file: "_projects/project1.md"
 
-- id: project-2
-  title: Project 2
+- id: epos
+  title: Epos
   img: 'https://via.placeholder.com/1440x810'
-  tags: ["Blueprints ", "Unreal ", "Game Development "]
+  tags: ["Blueprinting ", "Unreal ", "Game Development "]
   file: "_projects/project2.md"
 
