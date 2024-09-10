@@ -36,7 +36,7 @@ The actual code for the movement is quite simple. In fact, it is just a smooth a
 
 This is the input code which runs in Update, one notable thing is that the turnspeed is higher when the player is not holding down the acceleration button. This allows for players either to focus on gaining speed or opting for a higher degree of control and precision.
 
-
+![This is a image!](https://i.ibb.co/1bB5PcB/carbon-1.png "Movement Update Code")
 
 Then for the actual movement of the character; I used a scene object called DirectionMarker. Which just faces direction of movement. I opted to set the velocity instead of using addforce to gain a greater amount of control during development. I also did not need to use the built-in functionality of wall bounces and knockback. 
 
