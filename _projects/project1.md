@@ -7,7 +7,7 @@ title: Star Sweepers
 # Star Sweepers
 
 - **Developed:** 2023
-- **Genre:** Some sort of chill movement
+- **Genre:** Highscore, Speedrunning 
 
 ### Overview
 Star Sweepers is a movement based game about dodging obstacles and solving objectives around a map. In the game you play as a janitor who sweeps up broken stars in the sky; putting them back together. All while dodging asteroids and aiming for the best time to claim that gold medal.
