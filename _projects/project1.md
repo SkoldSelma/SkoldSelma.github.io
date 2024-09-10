@@ -34,13 +34,13 @@ During development, we used the plugin DoTween which made it easy to animate thi
 
 The actual code for the movement is quite simple. In fact, it is just a smooth and fast version of tank controls 
 
-This is the input code which runs in Update, one notable thing is that the turnspeed is higher when the player is not holding down the acceleration button. This allows for players either to focus on gaining speed or opting for a higher degree of control and precision.
-
 ![This is a image!](https://i.ibb.co/1bB5PcB/carbon-1.png "Movement Update Code")
+
+This is the input code which runs in the Update method, one notable thing is that the turnspeed is higher when the player is not holding down the acceleration button. This allows for players either to focus on gaining speed or opting for a higher degree of control and precision.
 
 Then for the actual movement of the character; I used a scene object called DirectionMarker. Which just faces direction of movement. I opted to set the velocity instead of using addforce to gain a greater amount of control during development. I also did not need to use the built-in functionality of wall bounces and knockback. 
 
-
+![This is a image!](https://i.ibb.co/1qZ9FwC/carbon-2.png "Movement Fixed Update Code")
 
 For the project I also made a sound manager since I am not a big fan of Unitys need of having sound sources on every object that needs to play a sound. It is based on the Sound Manager made by the YouTuber CodeMonkey however I made some changes to better performance.
 
