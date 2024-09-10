@@ -15,7 +15,7 @@ Star Sweepers is a movement based game about dodging obstacles and solving objec
 ### What I Did
 I was in charge of the majority of gameplay tasks within the project Most notably; the player movement which I am quite happy with. 
 
-[gif of movement]
+![This is a image!](https://s3.ezgif.com/tmp/ezgif-3-93bf128935.gif "Movement")
 
 The movement required constant work during development, changing every week to reflect player feedback to make sure that it was as good as possible since it was the main draw of the game.
 
