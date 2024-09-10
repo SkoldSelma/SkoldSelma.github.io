@@ -2,12 +2,12 @@
 title: Star Sweepers
 ---
 
-<iframe width="1024" height="576" src="https://www.youtube.com/embed/lZYfTkcNLX4?si=wA79MDzo-EqjiVIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://www.youtube.com/embed/lZYfTkcNLX4?si=wA79MDzo-EqjiVIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Star Sweepers
 
 - **Developed:** 2023
-- **Genre:** Hack, but also slash
+- **Genre:** Some sort of chill movement
 
 ### Overview
 Star Sweepers is a movement based game about dodging obstacles and solving objectives around a map. In the game you play as a janitor who sweeps up broken stars in the sky; putting them back together. All while dodging asteroids and aiming for the best time to claim that gold medal.
